@@ -1,7 +1,7 @@
 # Online-Book-Store
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Online Book Store](https://anayat-book-store.netlify.app/)
+Live Link - (https://anayat-book-store.netlify.app/)
 
 ## Available Scripts
 
